@@ -50,10 +50,7 @@ python main.py
 
 ### Loss Function
 
-- Uses **Negative Log Likelihood (NLL)** loss:
-  $$
-  L = -\log(p_{target})
-  $$
+- Uses **Negative Log Likelihood (NLL)** loss
 
 ### Optimizer
 
